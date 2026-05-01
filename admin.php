@@ -5,7 +5,7 @@ requireAdmin();
 
 $msg = '';
 $msgTipo = '';
-a
+
 // Procesar acciones
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (isset($_POST['accion'])) {

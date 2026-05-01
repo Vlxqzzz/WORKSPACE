@@ -1,6 +1,6 @@
 <?php
 require_once 'config/datos.php';
-?>a
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
